@@ -91,4 +91,4 @@ deploy:
 backup:
   type: git
   repository:
-    github: git@github.com:tom-davies/daily-dave.git,source
+    github: https://github.com/tom-davies/daily-dave,source
