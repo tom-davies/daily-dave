@@ -1,10 +1,7 @@
 ---
 title: Going Solo
 id: 447
-<<<<<<< HEAD
-=======
 date: LOOKUP FROM ORIGINAL FILE
->>>>>>> de3a1d0e96624a079763c8b64920d50cf729dd77
 categories:
   - Kayaking
 tags:

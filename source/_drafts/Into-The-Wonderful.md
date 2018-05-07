@@ -1,11 +1,7 @@
 ---
 title: Into The Wonderful
 date: 2018-03-10 17:58:32
-<<<<<<< HEAD
-tags:
-=======
 tags: Vidya
->>>>>>> de3a1d0e96624a079763c8b64920d50cf729dd77
 ---
 
 From reading _Ready Player One_ (Review coming soon), I decided to take a look back on some of the games I played during my childhood.
@@ -14,11 +10,6 @@ One of my fondest memories was of "racing" the computer to be ready to play. Cou
 
 ![DOS Prompt](https://i.imgur.com/cV4B3mJ.jpg)
 
-<<<<<<< HEAD
-One of the earliest games I remember playing was _The Lion King_
-
-![The Lion King](https://i.imgur.com/wq2F0Or.png)
-=======
 One of the earliest games I remember playing was _The Lion King_ Made by Virgin Interactive in 1997 **check this**, it actually had quite a few versions, for the SNES, Amiga, MegaDrive and PC. It was also one of my first experiences of game piracy. _The Lion King_ used a common method of DRM which relied upon the user finding a particular page and line in the manual for the game, and inputting the word found there. The method my family used to bypass this was simply to photocopy the manual, so that anyone with the game had a copy to hand to start the game up. I played enough of the game to know all of the "passwords" as there was only a small set of them. When I came to play the game again recently to write about it, the only password I could remember was "Difficulty" so I had to repeatedly input that until I was granted access to the game.
 
 The game held up to the lens of nostalgia, with the neat little secrets and minigames simply hidden behind 18 years of muscle memory. Some of the levels are as difficult as ever (I'm looking at you, Simba's Return)
@@ -37,4 +28,3 @@ I definitely spent far too much of my time playing _Gods_, as I was banned from 
 
 After the MS-DOS era, I spent a long time away from PC Gaming, until I played The Sims 2 on a PC that a family friend built for me. However, that experience was marred by the requirement to be constantly saving the game to avoid losing all progress to the constant restarting of the computer.
 It wasn't really until 2011 that I really came back into the fold. That's a story for the future.
->>>>>>> de3a1d0e96624a079763c8b64920d50cf729dd77

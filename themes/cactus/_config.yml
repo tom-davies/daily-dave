@@ -121,3 +121,6 @@ google_analytics:
 # logo and/or favicons of you website.
 gravatar:
   email:
+
+lazyload:
+  enable: true
